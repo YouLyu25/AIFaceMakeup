@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:4:5-25
+		INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:6:7-34
+		INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:5:7-33
+		INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:7:5-8:42
+INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:7:5-8:42
+INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:7:5-8:42
+INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:7:5-8:42
+INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:7:5-8:42
+	android:targetSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:7:42-71
+		INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml
+	tools:ignore
+		ADDED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:8:9-39
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:9:5-11:36
+	android:hardwareAccelerated
+		ADDED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:10:9-43
+	android:largeHeap
+		ADDED from C:\Users\Administrator\Desktop\Makeup\openCVLibrary342\src\main\AndroidManifest.xml:11:9-33

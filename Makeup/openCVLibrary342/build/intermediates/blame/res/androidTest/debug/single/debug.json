@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Makeup\\openCVLibrary342\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_koestinger_cascade_aflw_lbp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Makeup\\openCVLibrary342\\build\\intermediates\\bundles\\debug\\res\\raw\\koestinger_cascade_aflw_lbp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Makeup\\openCVLibrary342\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_lbpcascade_frontalface.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Makeup\\openCVLibrary342\\build\\intermediates\\bundles\\debug\\res\\raw\\lbpcascade_frontalface.xml"
+    }
+]
